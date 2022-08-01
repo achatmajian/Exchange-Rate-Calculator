@@ -1,9 +1,5 @@
 # Exchange Rate Calculator
 
-## App Preview
-
-![App Preview](https://i.ibb.co/grWy18v/Exchange-Rate-Calculator.png)
-
 ## Overview
 
 The Exchange Rate Calculator app allows users to comprare the exchange rates of different international currencies. 
