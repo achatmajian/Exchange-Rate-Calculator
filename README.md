@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Exchange Rate Calculator app allows users to comprare the exchange rates of different international currencies. 
+The Exchange Rate Calculator app allows users to comprare the exchange rates of different currencies. 
 
 ## Technologies Used
 
