@@ -10,7 +10,7 @@ This application was built using:
 * HTML
 * CSS
 * JavaScript
-* Exchange RAte API
+* Exchange Rate API
 * Netlify for deployment
 
 ## Deployed App Link
